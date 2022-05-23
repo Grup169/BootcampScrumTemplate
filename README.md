@@ -118,8 +118,6 @@ https://miro.com/app/board/uXjVOyrmHk8=/
 
 ---
 
-# Sprint 1
-
 - **Sprint Notları**: Uygulamanın splah screen, login screen, resgister screen, kategori sayfası, filtreleme sayfası ve keşfetme sayfası ayrıntılı olarak tasarlanmış ve tasarım aşaması bitmiştir. Splash screen, login screen ve register screen sayfalarının kodları tamamlanmıştır ve github'a yüklenmiştir. Ayrıca uygulamamnın firebase işlemlerine giriş yapılmıştır. Antalya şehri için gerekli datalar firebase sistemine yüklenmiştir. Kodlama kısmına ağırlık verilmektedir.
 
 - **Daily Scrum**: - https://github.com/Grup169/grup169/blob/main/Daily%20Scrum%202.Sprint.docx
