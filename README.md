@@ -123,16 +123,16 @@ https://miro.com/app/board/uXjVOyrmHk8=/
 - **Daily Scrum**: - https://github.com/Grup169/grup169/blob/main/Daily%20Scrum%202.Sprint.docx
 
 - **Sprint board update**: Sprint board screenshotları ve puanlama sistemi ekte yer almaktadır. Puanlama 180 tam puan üzeridendir. 
-- https://github.com/Grup169/grup169/blob/main/2.Sprint%20Board.png
+-[ https://github.com/Grup169/grup169/blob/main/2.Sprint%20Board.png](https://github.com/Grup169/grup169/blob/main/Product-Screenshots/2.Sprint%20Board.png)
 
 
 - **Ürün Durumu**: Uygulamamın ekran görüntüleri ekte yer almaktadır.
-https://github.com/Grup169/grup169/blob/main/Category%20Screen.png
+[https://github.com/Grup169/grup169/blob/main/Category%20Screen.png
 https://github.com/Grup169/grup169/blob/main/Discover%20Screen.png
 https://github.com/Grup169/grup169/blob/main/Filter%20Screen.png
 https://github.com/Grup169/grup169/blob/main/Login%20Screen.png
 https://github.com/Grup169/grup169/blob/main/Register%20Screen.png
-https://github.com/Grup169/grup169/blob/main/Splash%20Screen.png
+https://github.com/Grup169/grup169/blob/main/Splash%20Screen.png](https://github.com/Grup169/grup169/tree/main/Product-Screenshots)
 
 
 
